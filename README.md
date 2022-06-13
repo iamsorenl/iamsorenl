@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently brainstorming project ideas
+- 🌱 I’m currently learning full stack web development
+- 👯 I’m looking to collaborate on summer projects
+- 📫 How to reach me: iamsorenl@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Im an avid surfer, skateboarder, and climber
+
 <!--
 **iamsorenl/iamsorenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
