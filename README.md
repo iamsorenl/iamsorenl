@@ -6,6 +6,7 @@
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Im an avid surfer, skateboarder, and climber
+- send an email to request to see my private repositories
 
 <!--
 **iamsorenl/iamsorenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
