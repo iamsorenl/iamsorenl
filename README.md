@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently brainstorming project ideas
-- 🌱 I’m currently learning full stack web development
-- 👯 I’m looking to collaborate on summer projects
+- 🔭 I’m currently seeking internships and jobs for 2023
+- 🌱 I’m currently learning computer system design
+- 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Im an avid surfer, skateboarder, and climber
+- ⚡ Fun fact: Im an avid surfer, skateboarder, and rock climber
 - send an email to request to see my private repositories
 
 <!--
