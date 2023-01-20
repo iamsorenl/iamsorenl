@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking internships and jobs for 2023
-- 🌱 I’m currently learning computer system design
+- 🌱 I’m currently learning about nginx
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
