@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking internships and jobs for 2023
-- 🌱 I’m currently learning about mobile apps and frameworks
+- 🌱 I’m currently learning about mobile apps (kotlin, swift, and react native)
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
