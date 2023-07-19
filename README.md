@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking software engineering jobs for 2023
-- 🌱 I’m currently learning about mobile apps (kotlin, swift, and react native)
+- 🌱 I’m currently working on expanding my full stack knowledge by using new frameworks in my portfolio website
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Im an avid surfer, skateboarder, and rock climber
+- ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
 - due to copyright I ask that you send an email to request to see my private repositories
 
 <!--
