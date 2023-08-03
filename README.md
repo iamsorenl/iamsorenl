@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
 - 🔒 Send me an email to view my private projects and assignments I completed at UC Santa Cruz
-...or you can view these projects on my portfolio: larsensoren.com
+...or you can view these projects on my portfolio: [larsensoren.com]
 
 <!--
 **iamsorenl/iamsorenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
