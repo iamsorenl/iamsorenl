@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking software engineering jobs for 2023
-- 🌱 I’m currently working on expanding my full stack knowledge by using new frameworks in my portfolio website
+- 🌱 I’m currently working on my portfolio website and obtaining the AWS Certified Cloud Practitioner Certificate
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
