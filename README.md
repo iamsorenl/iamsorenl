@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently seeking software engineering jobs for 2023
-- 🌱 I’m currently working towards obtaining the AWS Certified Cloud Practitioner Certificate
+- 🌱 I’m currently working towards obtaining the AWS Certified Cloud Practitioner Certificate and expanding my AI/ML knowledge
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
