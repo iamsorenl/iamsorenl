@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently seeking software engineering jobs for 2023
+- 🔭 I’m currently seeking software engineering jobs for 2024
 - 🌱 I’m currently researching ways to leverage new AI tools to build helpful products
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
