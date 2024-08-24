@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently seeking software engineering jobs for 2024
-- 🌱 I’m currently researching ways to leverage new AI tools to build helpful products
+- 🎓 I'm an NLP Graduate Student at UCSC
+- 🔭 I’m seeking software engineering internships for Summer 2025
+- 🌱 I’m currently learning ways to leverage new AI tools to build helpful products
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
