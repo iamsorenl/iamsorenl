@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🎓 I'm an NLP Graduate Student at UCSC
-- 🔭 I’m seeking software engineering internships for Summer 2025
-- 🌱 I’m currently learning ways to leverage new AI tools to build helpful products
+- 🔭 I’m seeking Internships for Summer 2025
+- 🌱 I’m currently learning about topics in Data Science and Deep Learning
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
