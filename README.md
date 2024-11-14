@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 I'm an NLP Graduate Student at UCSC
+- 🎓 I'm a Natural Language Processing Graduate Student at UCSC
 - 🔭 I’m seeking Internships for Summer 2025
 - 🌱 I’m currently learning about topics in Data Science and Deep Learning
 - 👯 I’m looking to collaborate on projects
