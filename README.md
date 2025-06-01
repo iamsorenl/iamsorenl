@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🎓 I'm a Natural Language Processing Graduate Student at UCSC
-- 🔭 I’m seeking Internships for Summer 2025
-- 🌱 I’m currently learning about topics in Data Science, Deep Learning, Conversational Agents, Multi Modality Models, and RAG
-- 👯 I’m looking to collaborate on projects
+- 🔭 I’m seeking New Grad Opportunities for Winter 2026
+- 🌱 I’m currently learning about leveraging LLMs to build complex multi-modal agentic pipelines
+- 👯 I’m looking to make new connections
 - 📫 How to reach me: iamsorenl@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
