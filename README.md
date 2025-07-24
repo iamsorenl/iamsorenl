@@ -8,7 +8,8 @@
 - 🏷️ Pronouns: he/him/his
 - ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
 
-- Check out my portfolio website! larsensoren.com
+- Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
+
 
 <!--
 **iamsorenl/iamsorenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
