@@ -1,4 +1,4 @@
-- Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
+Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
 
 ### What's up! 🤙
 
