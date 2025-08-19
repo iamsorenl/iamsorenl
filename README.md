@@ -1,3 +1,5 @@
+- Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
+
 ### What's up! 🤙
 
 - 🎓 I'm a Natural Language Processing Graduate Student at UCSC
@@ -7,8 +9,6 @@
 - 📫 How to reach me: iamsorenl@gmail.com
 - 🏷️ Pronouns: he/him/his
 - ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
-
-- Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
 
 
 <!--
