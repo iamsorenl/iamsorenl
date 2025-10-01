@@ -3,7 +3,7 @@ Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
 ### What's up! 🤙
 
 - 🎓 I'm a Natural Language Processing Graduate Student at UCSC
-- 🔭 I’m seeking New Grad Opportunities for Winter 2026
+- 🔭 I’m seeking New Grad Opportunities starting in 2026
 - 🌱 I’m currently learning about leveraging LLMs to build complex multi-modal agentic pipelines
 - 🤝 I’m looking to make new connections
 - 📫 How to reach me: iamsorenl@gmail.com
