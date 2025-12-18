@@ -2,8 +2,8 @@ Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
 
 ### What's up! 🤙
 
-- 🎓 I'm a Natural Language Processing Graduate Student at UCSC
-- 🐋 I’m currently building and testing AI models and tools at Gray Whale AI
+- 🎓 I'm a Data & Full Stack Engineer at Gray Whale AI
+- 🐋 I’m currently building and testing AI models and tools
 - 🤝 I’m looking to make new connections
 - 📫 How to reach me: iamsorenl@gmail.com
 - 🏷️ Pronouns: he/him/his
