@@ -2,10 +2,10 @@ Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
 
 ### What's up! 🤙
 
-- 🎓 I'm a Data & Full Stack Engineer at Gray Whale AI
-- 🐋 I’m currently building and testing AI models and tools
+- 🎓 I'm a Founding Engineer at Levangie Laboratories
+- 🐋 I’m currently building a cognitive agent platform
 - 🤝 I’m looking to make new connections
-- 📫 How to reach me: iamsorenl@gmail.com
+- 📫 How to reach me: soren@levangielaboratories.com
 - 🏷️ Pronouns: he/him/his
 - ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
 
