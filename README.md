@@ -26,6 +26,6 @@ When I’m not building, you’ll probably find me:
 
 ### ⚠️ Notes
 
-* Most of my current work happens in a separate GitHub account for **Levangie Laboratories**
+* Most of my current work happens in a separate GitHub account for **Levangie Laboratories** [SorenOverCalifornia](https://github.com/SorenOverCalifornia)
 * This profile may not fully reflect my daily activity
 * (Yes, the green squares are partially powered by [fancy_job_cron](https://github.com/iamsorenl/fancy_job_cron) 😄)
