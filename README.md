@@ -1,26 +1,31 @@
-Check out my portfolio website! [Portfolio](https://www.larsensoren.com)
+### 👋 Hey, I’m Soren
 
-### What's up! 🤙
+Check out my portfolio → [**larsensoren.com**](https://www.larsensoren.com)
 
-- 🎓 I'm a Founding Engineer at Levangie Laboratories
-- 🐋 I’m currently building a cognitive agent platform
-- 🤝 I’m looking to make new connections
-- 📫 How to reach me: soren@levangielaboratories.com
-- 🏷️ Pronouns: he/him/his
-- ⚡ Fun fact: I'm an avid surfer, skateboarder, and rock climber
+---
 
+### 🚀 About Me
 
-<!--
-**iamsorenl/iamsorenl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🎓 Founding Engineer at **Levangie Laboratories**
+* 🧠 Currently building a **cognitive agent platform**
+* 🤝 Always open to **connecting with builders, researchers, and founders**
+* 📫 Reach me at: **[soren@levangielaboratories.com](mailto:soren@levangielaboratories.com)**
+* 🏷️ Pronouns: **he/him**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌊 Outside of Code
+
+When I’m not building, you’ll probably find me:
+
+* 🏄‍♂️ Surfing
+* 🛹 Skateboarding
+* 🧗 Rock climbing
+
+---
+
+### ⚠️ Notes
+
+* Most of my current work happens in a separate GitHub account for **Levangie Laboratories**
+* This profile may not fully reflect my daily activity
+* (Yes, the green squares are partially powered by [fancy_job_cron](https://github.com/iamsorenl/fancy_job_cron) 😄)
