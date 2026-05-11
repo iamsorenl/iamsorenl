@@ -9,7 +9,7 @@ Check out my portfolio → [**larsensoren.com**](https://www.larsensoren.com)
 * 🎓 Founding Engineer at **Levangie Laboratories**
 * 🧠 Currently building a **cognitive agent platform**
 * 🤝 Always open to **connecting with builders, researchers, and founders**
-* 📫 Reach me at: **[soren@levangielaboratories.com](mailto:soren@levangielaboratories.com)**
+* 📫 Reach me at: **[iamsorenl@gmail.com](mailto:iamsorenl@gmail.com)**
 * 🏷️ Pronouns: **he/him**
 
 ---
@@ -21,11 +21,3 @@ When I’m not building, you’ll probably find me:
 * 🏄‍♂️ Surfing
 * 🛹 Skateboarding
 * 🧗 Rock climbing
-
----
-
-### ⚠️ Notes
-
-* Most of my current work happens in a separate GitHub account for **Levangie Laboratories**
-* This profile may not fully reflect my daily activity
-* (Yes, the green squares are partially powered by [fancy_job_cron](https://github.com/iamsorenl/fancy_job_cron) 😄)
