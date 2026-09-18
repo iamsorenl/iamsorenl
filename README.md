@@ -6,11 +6,12 @@ Check out my portfolio → [**larsensoren.com**](https://www.larsensoren.com)
 
 ### 🚀 About Me
 
-* 🎓 Founding Engineer at **Levangie Laboratories**
-* 🧠 Currently building a **cognitive agent platform**
-* 🤝 Always open to **connecting with builders, researchers, and founders**
-* 📫 Reach me at: **[iamsorenl@gmail.com](mailto:iamsorenl@gmail.com)**
-* 🏷️ Pronouns: **he/him**
+* 🎓 AI and full-stack engineer in Santa Cruz, with an M.S. in NLP from UC Santa Cruz
+* 🧠 Was a founding engineer at **Levangie Laboratories**, where I built a cognitive agent platform
+* 🔎 **Open to work.** Looking for product engineering, forward deployed, or founding engineer roles
+* 🤝 Always open to connecting with builders, researchers, and founders
+* 📫 Reach me at **[iamsorenl@gmail.com](mailto:iamsorenl@gmail.com)**
+* 🏷️ he/him
 
 ---
 
