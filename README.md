@@ -15,7 +15,7 @@ Check out my portfolio → [**larsensoren.com**](https://www.larsensoren.com)
 
 ---
 
-### 🌊 Outside of Code
+### 🌊 Hobbies
 
 When I’m not building, you’ll probably find me:
 
