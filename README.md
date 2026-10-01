@@ -6,7 +6,7 @@ Check out my portfolio → [**larsensoren.com**](https://www.larsensoren.com)
 
 ### 🚀 About Me
 
-* 🎓 AI and full-stack engineer in Santa Cruz, with an M.S. in NLP from UC Santa Cruz
+* 🎓 AI and full-stack engineer in Santa Cruz CA, with an M.S. in NLP from UC Santa Cruz
 * 🧠 Was a founding engineer at **Levangie Laboratories**, where I built a cognitive agent platform
 * 🔎 **Open to work.** Looking for product engineering, forward deployed, or founding engineer roles
 * 🤝 Always open to connecting with builders, researchers, and founders
